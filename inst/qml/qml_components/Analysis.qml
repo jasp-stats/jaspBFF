@@ -75,7 +75,7 @@ Section
 				checked:	true
 			}
 		}
-
+		/* Disabled till implemented in the BFF package
 		CheckBox
 		{
 			name:		"plotPriorAndPosterior"
@@ -88,5 +88,6 @@ Section
 				checked:	true
 			}
 		}
+		*/
 	}
 }

@@ -18,8 +18,6 @@ bffAnalysis <- function(jaspResults, dataset, options, test) {
   if (.bffReady(options))
     .bffFitBFF(jaspResults, dataset, options)
 
-  # saveRDS(options, file = "C:/JASP/options.RDS")
-  # saveRDS(dataset, file = "C:/JASP/dataset.RDS")
   # default summary table
   .bffSummaryTable(jaspResults, dataset, options)
 
@@ -34,9 +32,9 @@ bffAnalysis <- function(jaspResults, dataset, options, test) {
   if (options[["plotBayesFactorFunction"]])
     .bffBayesFactorFunctionPlot(jaspResults, dataset, options)
 
-  # prior and posterior plot
-  if (FALSE && options[["plotPriorAndPosterior"]])
-    .bffPriorAndPosteriorPlot(jaspResults, dataset, options)
+  # # prior and posterior plot
+  # if (FALSE && options[["plotPriorAndPosterior"]])
+  #   .bffPriorAndPosteriorPlot(jaspResults, dataset, options)
 }
 
 
