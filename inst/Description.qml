@@ -4,16 +4,17 @@ import JASP.Module	1.0
 Description
 {
 	name		: "jaspBFF"
-	title		: qsTr("BFF (beta)")
+	title		: qsTr("Bayes Factor Functions")
 	description	: qsTr("This module offers Bayes factor functions.")
-	version			: "0.19.2"
+	version		: "0.19.2"
 	author		: "JASP Team"
 	maintainer	: "JASP Team <info@jasp-stats.org>"
 	website		: "https://jasp-stats.org"
 	license		: "GPL (>= 2)"
 	icon		: "analysis-bayes-factor-functions.svg"
+	preloadData:  true // no data actually needed for this module
 	requiresData: false
-
+/*
 	GroupTitle
 	{
 		title:	qsTr("Z-Tests")
@@ -31,7 +32,7 @@ Description
 		title:	qsTr("Independent Samples Z-Test")
 		func:	"bffIndependentSamplesZTest"
 	}
-
+*/
 	GroupTitle
 	{
 		title:	qsTr("T-Tests")
