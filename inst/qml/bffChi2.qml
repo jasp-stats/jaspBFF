@@ -44,6 +44,12 @@ Form {
 			name:				"sampleSize"
 			label:				qsTr("Sample size")
 		}
+
+		IntegerField
+		{
+			name:				"degreesOfFreedom"
+			label:				qsTr("Degrees of freedom")
+		}
 	}
 
 	/*VariablesForm

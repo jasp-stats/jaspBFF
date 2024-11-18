@@ -16,6 +16,7 @@ Imports:
 Suggests:
   testthat
 Remotes:
+  rshudde/BFF@revisions,
   jasp-stats/jaspBase,
   jasp-stats/jaspGraphs
 RoxygenNote: 7.3.2

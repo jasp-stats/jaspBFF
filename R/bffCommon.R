@@ -49,10 +49,10 @@ bffAnalysis <- function(jaspResults, dataset, options, test) {
     "ISTT"        = c("tStatistic", "sampleSizeGroup1", "sampleSizeGroup2"),
     # "correlation" = c("tStatistic", "sampleSize"),
     "regression"  = c("tStatistic", "sampleSize", "predictors"),
-    "ANOVA"       = c("fStatistic", "degreesOfFreedom1", "degreesOfFreedom2"),
+    "ANOVA"       = c("fStatistic", "sampleSize", "degreesOfFreedom1", "degreesOfFreedom2"),
     #"binomial"    = c("zStatistic", "sampleSize"),
     #"AB"          = c("chiqsrStatistic", "degreesOfFreedom"),
-    "Chi2"        = c("chi2Statistic", "sampleSize")
+    "Chi2"        = c("chi2Statistic", "sampleSize", "degreesOfFreedom")
   )
 
   return(c(dependenciesGlobal, dependenciesTest))
@@ -129,6 +129,7 @@ bffAnalysis <- function(jaspResults, dataset, options, test) {
   else if (options[["test"]] == "ANOVA")
     fit <- try(BFF::f_test_BFF(
       f_stat      = options[["fStatistic"]],
+      n           = , options[["sampleSize"]],
       df1         = options[["degreesOfFreedom1"]],
       df2         = options[["degreesOfFreedom2"]],
       r           = options[["priorDispersionR"]],
@@ -150,6 +151,7 @@ bffAnalysis <- function(jaspResults, dataset, options, test) {
     fit <- try(BFF::chi2_test_BFF(
       chi2_stat   = options[["chi2Statistic"]],
       n           = options[["sampleSize"]],
+      df          = options[["degreesOfFreedom"]],
       r           = options[["priorDispersionR"]],
       omega       = if (fixedOmega) options[["bayesFactorWithPriorModeValue"]] else NULL))
 
@@ -188,10 +190,10 @@ bffAnalysis <- function(jaspResults, dataset, options, test) {
     "ISTT"        = options[["sampleSizeGroup1"]] != 0  && options[["sampleSizeGroup2"]] != 0,
     # "correlation" = options[["sampleSize"]] != 0,
     "regression"  = options[["sampleSize"]] != 0 && options[["predictors"]] != 0,
-    "ANOVA"       = options[["degreesOfFreedom1"]] != 0 && options[["degreesOfFreedom2"]] != 0,
+    "ANOVA"       = options[["sampleSize"]] != 0 && options[["degreesOfFreedom1"]] != 0 && options[["degreesOfFreedom2"]] != 0,
     # "binomial"    = options[["sampleSize"]] != 0,
     # "AB"          = options[["degreesOfFreedom"]] != 0,
-    "Chi2"        = options[["sampleSize"]] != 0
+    "Chi2"        = options[["sampleSize"]] != 0 && options[["degreesOfFreedom"]] != 0
   )
 }
 .bffReadDataset              <- function(dataset, options) {
@@ -209,10 +211,10 @@ bffAnalysis <- function(jaspResults, dataset, options, test) {
       "ISTT"        = c(options[["tStatistic"]], options[["sampleSizeGroup1"]] , options[["sampleSizeGroup2"]]),
       # "correlation" = c(options[["tStatistic"]], options[["sampleSize"]]),
       "regression"  = c(options[["tStatistic"]], options[["sampleSize"]], options[["predictors"]]),
-      "ANOVA"       = c(options[["fStatistic"]], options[["degreesOfFreedom1"]], options[["degreesOfFreedom2"]]),
+      "ANOVA"       = c(options[["fStatistic"]], options[["sampleSize"]], options[["degreesOfFreedom1"]], options[["degreesOfFreedom2"]]),
       # "binomial"    = c(options[["zStatistic"]], options[["sampleSize"]]),
       # "AB"          = c(options[["chi2Statistic"]], options[["degreesOfFreedom"]]),
-      "Chi2"        = c(options[["chi2Statistic"]], options[["sampleSize"]])
+      "Chi2"        = c(options[["chi2Statistic"]], options[["sampleSize"]], options[["degreesOfFreedom"]])
     )
   )
 
@@ -231,10 +233,10 @@ bffAnalysis <- function(jaspResults, dataset, options, test) {
       "ISTT"        = c(options[["sampleSizeGroup1"]] , options[["sampleSizeGroup2"]]),
       # "correlation" = c(options[["sampleSize"]]),
       "regression"  = c(options[["sampleSize"]], options[["predictors"]]),
-      "ANOVA"       = c(options[["fStatistic"]], options[["degreesOfFreedom1"]], options[["degreesOfFreedom2"]]),
+      "ANOVA"       = c(options[["fStatistic"]], options[["sampleSize"]], options[["degreesOfFreedom1"]], options[["degreesOfFreedom2"]]),
       # "binomial"    = c(options[["sampleSize"]]),
       # "AB"          = c(options[["chi2Statistic"]], options[["degreesOfFreedom"]])
-      "Chi2"        = c(options[["chi2Statistic"]], options[["sampleSize"]])
+      "Chi2"        = c(options[["chi2Statistic"]], options[["sampleSize"]], options[["degreesOfFreedom"]])
     ),
     exitAnalysisIfErrors         = TRUE
   )
@@ -249,10 +251,10 @@ bffAnalysis <- function(jaspResults, dataset, options, test) {
       "ISTT"        = c(options[["tStatistic"]], options[["sampleSizeGroup1"]] , options[["sampleSizeGroup2"]]),
       # "correlation" = c(options[["tStatistic"]], options[["sampleSize"]]),
       "regression"  = c(options[["tStatistic"]], options[["degreesOfFreedom"]]),
-      "ANOVA"       = c(options[["fStatistic"]], options[["degreesOfFreedom1"]], options[["degreesOfFreedom2"]]),
+      "ANOVA"       = c(options[["fStatistic"]], options[["sampleSize"]], options[["degreesOfFreedom1"]], options[["degreesOfFreedom2"]]),
       # "binomial"    = c(options[["zStatistic"]], options[["sampleSize"]]),
       # "AB"          = c(options[["chi2Statistic"]], options[["degreesOfFreedom"]]),
-      "Chi2"        = c(options[["chi2Statistic"]], options[["sampleSize"]])
+      "Chi2"        = c(options[["chi2Statistic"]], options[["sampleSize"]], options[["degreesOfFreedom"]])
     ),
     exitAnalysisIfErrors         = TRUE
   )
@@ -376,8 +378,8 @@ bffAnalysis <- function(jaspResults, dataset, options, test) {
 
   summaryTable$addRows(list(
     # n       = nrow(dataset),
-    bf        = .recodeBFtype(bfOld = fit[["log_bf"]], newBFtype = options[["bayesFactorType"]], oldBFtype = "LogBF10"),
-    priorMode = fit[["omega"]]
+    bf        = .recodeBFtype(bfOld = fit[["log_bf_h1"]], newBFtype = options[["bayesFactorType"]], oldBFtype = "LogBF10"),
+    priorMode = fit[["omega_h1"]]
   ))
 
   summaryTable$addFootnote(gettextf("Prior mode corresponds to %1$s.", .bffEffectSizeInformation(options)))
@@ -429,7 +431,7 @@ bffAnalysis <- function(jaspResults, dataset, options, test) {
 
   omegaTable$addRows(list(
     # n       = nrow(dataset),
-    bf        = .recodeBFtype(bfOld = fit[["log_bf"]], newBFtype = options[["bayesFactorType"]], oldBFtype = "LogBF10"),
+    bf        = .recodeBFtype(bfOld = fit[["log_bf_h1"]], newBFtype = options[["bayesFactorType"]], oldBFtype = "LogBF10"),
     priorMode = options[["bayesFactorWithPriorModeValue"]]
   ))
 
@@ -488,7 +490,7 @@ bffAnalysis <- function(jaspResults, dataset, options, test) {
 
   maxBF10  <- exp(max(fit$BFF$log_bf))
   if (options[["bayesFactorWithPriorMode"]])
-    BF10user <- exp(fitOmega$log_bf)
+    BF10user <- exp(fitOmega$log_bf_h1)
 
   if (options[["bayesFactorType"]] == "BF01") {
     dfLines$y <- -dfLines$y

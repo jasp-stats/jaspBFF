@@ -41,6 +41,12 @@ Form {
 
 		IntegerField
 		{
+			name:				"sampleSize"
+			label:				qsTr("Sample size")
+		}
+		
+		IntegerField
+		{
 			name:				"degreesOfFreedom1"
 			label:				qsTr("Degrees of freedom 1")
 		}
