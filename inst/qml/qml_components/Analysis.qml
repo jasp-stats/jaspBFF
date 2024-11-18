@@ -23,7 +23,8 @@ import JASP				1.0
 
 Section
 {
-	property bool directionalTest:		true	
+	property bool directionalTest:		true
+	property bool oneSampleTest:		false
 
 	expanded:	true
 	title:		qsTr("Analysis")
@@ -35,9 +36,9 @@ Section
 			name:		"alternativeHypothesis"
 			title:		qsTr("Alternative Hypothesis")
 			visible:	directionalTest
-			RadioButton { value: "equal";		label: qsTr("Group 1 ≠ Group 2"); checked: true	}
-			RadioButton { value: "greater";		label: qsTr("Group 1 > Group 2")}
-			RadioButton { value: "less";		label: qsTr("Group 1 < Group 2")}
+			RadioButton { value: "equal";		label: oneSampleTest ?  qsTr("Group 1 ≠ 0") : qsTr("Group 1 ≠ Group 2"); checked: true	}
+			RadioButton { value: "greater";		label: oneSampleTest ?  qsTr("Group 1 > 0") : qsTr("Group 1 > Group 2")}
+			RadioButton { value: "less";		label: oneSampleTest ?  qsTr("Group 1 < 0") : qsTr("Group 1 < Group 2")}
 		}
 
 		BayesFactorType { }

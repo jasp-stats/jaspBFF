@@ -71,6 +71,6 @@ Form {
 		}
 	}*/
 
-	BFF.Analysis{}
+	BFF.Analysis{oneSampleTest: true}
 	BFF.Priors{}
 }
