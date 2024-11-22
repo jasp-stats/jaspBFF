@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jaspBFF 0.19.2\n"
 "POT-Creation-Date: 2024-10-21 09:06\n"
-"PO-Revision-Date: 2024-10-28 08:17+0000\n"
+"PO-Revision-Date: 2024-11-23 03:41+0000\n"
 "Last-Translator: Johannes Keyser <joke@fsfe.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/jasp/jaspbff-r/de/"
 ">\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8.2-dev\n"
+"X-Generator: Weblate 5.9-dev\n"
 
 msgid "One Sample Z-Test Bayes Factor Function Summary Table"
 msgstr ""
@@ -35,25 +35,25 @@ msgid "Chi² Test Bayes Factor Function Summary Table"
 msgstr ""
 
 msgid "Prior Mode"
-msgstr ""
+msgstr "Prior-Modus"
 
 msgid "Prior mode corresponds to %1$s."
-msgstr ""
+msgstr "Prior-Modus entspricht %1$."
 
 msgid "The Bayes factor function was estimated with prior dispersion r = %1$.2f."
 msgstr ""
 
 msgid "One Sample Z-Test Bayes Factor"
-msgstr ""
+msgstr "Bayesfaktor Z-Test für eine Stichprobe"
 
 msgid "One Sample T-Test Bayes Factor"
-msgstr ""
+msgstr "Bayesfaktor T-Test für eine Stichprobe"
 
 msgid "Independent Samples Z-Test Bayes Factor"
-msgstr ""
+msgstr "Bayesfaktor Z-Test für unabhängige Stichproben"
 
 msgid "Independent Samples T-Test Bayes Factor"
-msgstr ""
+msgstr "Bayesfaktor T-Test für unabhängige Stichproben"
 
 msgid "Regression Bayes Factor"
 msgstr "Bayesfaktor Regression"
@@ -65,16 +65,16 @@ msgid "Chi² Test Bayes Factor"
 msgstr "Bayesfaktor Chi²-Test"
 
 msgid "One Sample Z-Test Bayes Factor Function"
-msgstr ""
+msgstr "Bayesfaktor-Funktion Z-Test für eine Stichprobe"
 
 msgid "One Sample T-Test Bayes Factor Function"
-msgstr ""
+msgstr "Bayesfaktor-Funktion T-Test für eine Stichprobe"
 
 msgid "Independent Samples Z-Test Bayes Factor Function"
-msgstr ""
+msgstr "Bayesfaktor-Funktion Z-Test für unabhängige Stichproben"
 
 msgid "Independent Samples T-Test Bayes Factor Function"
-msgstr ""
+msgstr "Bayesfaktor-Funktion T-Test für unabhängige Stichproben"
 
 msgid "Regression Bayes Factor Function"
 msgstr "Bayesfaktor-Funktion Regression"
@@ -92,7 +92,7 @@ msgid "user prior"
 msgstr "benutzerdefinierter Prior"
 
 msgid "%1$s==%2$s~\"(at mode %3$s)\""
-msgstr ""
+msgstr "%1$s==%2$s~\"(bei Modus %3$s)\""
 
 msgid "Some Bayes factors were infinite"
 msgstr "Einige Bayesfaktoren waren unendlich"
