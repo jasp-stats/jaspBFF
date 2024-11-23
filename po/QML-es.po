@@ -8,24 +8,8 @@ msgstr ""
 "X-Qt-Contexts: true\n"
 
 msgctxt "Description|"
-msgid "BFF (beta)"
-msgstr "FFB (beta)"
-
-msgctxt "Description|"
 msgid "This module offers Bayes factor functions."
 msgstr "Este módulo ofrece funciones de los factores de Bayes."
-
-msgctxt "Description|"
-msgid "Z-Tests"
-msgstr "Contrastes Z"
-
-msgctxt "Description|"
-msgid "One Sample Z-Test"
-msgstr "Contraste Z de una muestra"
-
-msgctxt "Description|"
-msgid "Independent Samples Z-Test"
-msgstr "Contraste Z de muestras independientes"
 
 msgctxt "Description|"
 msgid "T-Tests"
@@ -179,10 +163,6 @@ msgctxt "Analysis|"
 msgid "Additional info"
 msgstr "Información adicional"
 
-msgctxt "Analysis|"
-msgid "Prior and posterior"
-msgstr "Previo y posterior"
-
 msgctxt "Priors|"
 msgid "Priors"
 msgstr "Previas"
@@ -190,3 +170,28 @@ msgstr "Previas"
 msgctxt "Priors|"
 msgid "Prior dispersion r"
 msgstr "Dispersión previa r"
+
+msgctxt "Description|"
+msgid "Bayes Factor Functions"
+msgstr ""
+
+#, fuzzy
+msgctxt "bffANOVA|"
+msgid "Sample size"
+msgstr "Tamaño de la muestra"
+
+msgctxt "bffChi2|"
+msgid "Degrees of freedom"
+msgstr ""
+
+msgctxt "Analysis|"
+msgid "Group 1 ≠ 0"
+msgstr ""
+
+msgctxt "Analysis|"
+msgid "Group 1 > 0"
+msgstr ""
+
+msgctxt "Analysis|"
+msgid "Group 1 < 0"
+msgstr ""
