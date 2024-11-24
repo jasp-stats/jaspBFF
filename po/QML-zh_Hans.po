@@ -1,15 +1,9 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-24 16:49+0000\n"
-"Last-Translator: Shun Wang <shuonwang@gmail.com>\n"
-"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
-"projects/jasp/jaspbff-qml/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.9-dev\n"
 "X-Language: zh_Hans\n"
 "X-Qt-Contexts: true\n"
 
@@ -109,25 +103,30 @@ msgctxt "bffOneSampleTTest|"
 msgid "T-statistic"
 msgstr "T 统计量"
 
+#, fuzzy
 msgctxt "bffOneSampleTTest|"
 msgid "Sample size"
-msgstr ""
+msgstr "样本量"
 
+#, fuzzy
 msgctxt "bffOneSampleZTest|"
 msgid "Z-statistic"
-msgstr ""
+msgstr "Z 统计量"
 
+#, fuzzy
 msgctxt "bffOneSampleZTest|"
 msgid "Sample size"
-msgstr ""
+msgstr "样本量"
 
+#, fuzzy
 msgctxt "bffRegression|"
 msgid "T-statistic"
-msgstr ""
+msgstr "T 统计量"
 
+#, fuzzy
 msgctxt "bffRegression|"
 msgid "Sample size"
-msgstr ""
+msgstr "样本量"
 
 msgctxt "bffRegression|"
 msgid "Predictors"
@@ -181,9 +180,10 @@ msgctxt "Description|"
 msgid "Bayes Factor Functions"
 msgstr ""
 
+#, fuzzy
 msgctxt "bffANOVA|"
 msgid "Sample size"
-msgstr ""
+msgstr "样本量"
 
 msgctxt "bffChi2|"
 msgid "Degrees of freedom"
