@@ -42,13 +42,17 @@ Form {
 		IntegerField
 		{
 			name:				"sampleSize"
+			id:					sampleSize
 			label:				qsTr("Sample size")
+			min:				(predictors.value == 0 || sampleSize.value == 0) ? 0 : parseInt(predictors.value) + 2
 		}
-		
+
 		IntegerField
 		{
 			name:				"predictors"
-			label:				 qsTr("Predictors")
+			id:					predictors
+			label:				qsTr("Predictors")
+			max:				(predictors.value == 0 || sampleSize.value == 0) ? 2147483647 : parseInt(sampleSize.value) - 2
 		}
 	}
 
