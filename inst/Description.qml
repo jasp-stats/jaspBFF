@@ -14,7 +14,7 @@ Description
 	icon		: "analysis-bayes-factor-functions.svg"
 	preloadData:  true // no data actually needed for this module
 	requiresData: false
-/*
+
 	GroupTitle
 	{
 		title:	qsTr("Z-Tests")
@@ -32,7 +32,7 @@ Description
 		title:	qsTr("Independent Samples Z-Test")
 		func:	"bffIndependentSamplesZTest"
 	}
-*/
+
 	GroupTitle
 	{
 		title:	qsTr("T-Tests")
@@ -63,11 +63,11 @@ Description
 		func:	"bffCorrelation"
 	}*/
 
-	Analysis
+	/*Analysis
 	{
 		title:	qsTr("Regression")
 		func:	"bffRegression"
-	}
+	}*/
 
 	Analysis
 	{
