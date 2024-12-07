@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jaspBFF 0.19.2\n"
 "POT-Creation-Date: 2024-10-21 09:06\n"
-"PO-Revision-Date: 2024-11-24 16:00+0000\n"
-"Last-Translator: Shun Wang <shuonwang@gmail.com>\n"
+"PO-Revision-Date: 2024-12-01 10:00+0000\n"
+"Last-Translator: Johannes Keyser <joke@fsfe.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/jasp/jaspbff-r/de/"
 ">\n"
 "Language: de\n"
@@ -14,25 +14,27 @@ msgstr ""
 "X-Generator: Weblate 5.9-dev\n"
 
 msgid "One Sample Z-Test Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Übersichtstabelle Bayesfaktor-Funktion Z-Test für eine Stichprobe"
 
 msgid "One Sample T-Test Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Übersichtstabelle Bayesfaktor-Funktion T-Test für eine Stichprobe"
 
 msgid "Independent Samples Z-Test Bayes Factor Function Summary Table"
 msgstr ""
+"Übersichtstabelle Bayesfaktor-Funktion Z-Test für unabhängige Stichproben"
 
 msgid "Independent Samples T-Test Bayes Factor Function Summary Table"
 msgstr ""
+"Übersichtstabelle Bayesfaktor-Funktion T-Test für unabhängige Stichproben"
 
 msgid "Regression Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Übersichtstabelle Bayesfaktor-Funktion Regression"
 
 msgid "ANOVA Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Übersichtstabelle Bayesfaktor-Funktion ANOVA"
 
 msgid "Chi² Test Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Übersichtstabelle Bayesfaktor-Funktion Chi²-Test"
 
 msgid "Prior Mode"
 msgstr "Prior-Modus"
@@ -41,7 +43,7 @@ msgid "Prior mode corresponds to %1$s."
 msgstr "Prior-Modus entspricht %1$s."
 
 msgid "The Bayes factor function was estimated with prior dispersion r = %1$.2f."
-msgstr ""
+msgstr "Die Bayesfaktor-Funktion wurde geschätzt mit Prior-Streuung r = %1$.2f."
 
 msgid "One Sample Z-Test Bayes Factor"
 msgstr "Bayesfaktor Z-Test für eine Stichprobe"
