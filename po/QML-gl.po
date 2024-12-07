@@ -194,3 +194,15 @@ msgstr "Grupo 1 > 0"
 msgctxt "Analysis|"
 msgid "Group 1 < 0"
 msgstr "Grupo 1 < 0"
+
+msgctxt "Description|"
+msgid "Z-Tests"
+msgstr ""
+
+msgctxt "Description|"
+msgid "One Sample Z-Test"
+msgstr ""
+
+msgctxt "Description|"
+msgid "Independent Samples Z-Test"
+msgstr ""
