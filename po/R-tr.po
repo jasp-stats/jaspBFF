@@ -2,109 +2,112 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jaspBFF 0.19.2\n"
 "POT-Creation-Date: 2024-10-21 09:06\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-03-19 23:04+0000\n"
+"Last-Translator: Uğur ÇELİK <prof_ugur@hotmail.com>\n"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/jasp/jaspbff-r/"
+"tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11-dev\n"
 
 msgid "One Sample Z-Test Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Tek Örnek Z-Testi Bayes Faktör Fonksiyonu Özet Tablosu"
 
 msgid "One Sample T-Test Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Tek Örnek T-Testi Bayes Faktör Fonksiyonu Özet Tablosu"
 
 msgid "Independent Samples Z-Test Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Bağımsız Örnekler Z-Testi Bayes Faktör Fonksiyonu Özet Tablosu"
 
 msgid "Independent Samples T-Test Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Bağımsız Örnekler T-Testi Bayes Faktör Fonksiyonu Özet Tablosu"
 
 msgid "Regression Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Regresyon Bayes Faktör Fonksiyonu Özet Tablosu"
 
 msgid "ANOVA Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "ANOVA Bayes Faktör Fonksiyonu Özet Tablosu"
 
 msgid "Chi² Test Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Chi² Testi Bayes Faktör Fonksiyonu Özet Tablosu"
 
 msgid "Prior Mode"
-msgstr ""
+msgstr "Önceki Mod"
 
 msgid "Prior mode corresponds to %1$s."
-msgstr ""
+msgstr "Önceki mod %1$s değerine karşılık gelir."
 
 msgid "The Bayes factor function was estimated with prior dispersion r = %1$.2f."
-msgstr ""
+msgstr "Bayes faktör fonksiyonu, ön dağılım r = %1$.2f ile tahmin edildi."
 
 msgid "One Sample Z-Test Bayes Factor"
-msgstr ""
+msgstr "Tek Örneklem Z-Testi Bayes Faktörü"
 
 msgid "One Sample T-Test Bayes Factor"
-msgstr ""
+msgstr "Tek Örneklem T-Testi Bayes Faktörü"
 
 msgid "Independent Samples Z-Test Bayes Factor"
-msgstr ""
+msgstr "Bağımsız Örneklemler Z-Testi Bayes Faktörü"
 
 msgid "Independent Samples T-Test Bayes Factor"
-msgstr ""
+msgstr "Bağımsız Örneklemler T-Testi Bayes Faktörü"
 
 msgid "Regression Bayes Factor"
-msgstr ""
+msgstr "Regresyon Bayes Faktörü"
 
 msgid "ANOVA Bayes Factor"
-msgstr ""
+msgstr "ANOVA Bayes Faktörü"
 
 msgid "Chi² Test Bayes Factor"
-msgstr ""
+msgstr "Chi² Testi Bayes Faktörü"
 
 msgid "One Sample Z-Test Bayes Factor Function"
-msgstr ""
+msgstr "Tek Örneklem Z-Testi Bayes Faktör Fonksiyonu"
 
 msgid "One Sample T-Test Bayes Factor Function"
-msgstr ""
+msgstr "Tek Örneklem T-Testi Bayes Faktör Fonksiyonu"
 
 msgid "Independent Samples Z-Test Bayes Factor Function"
-msgstr ""
+msgstr "Bağımsız Örneklemler Z-Testi Bayes Faktör Fonksiyonu"
 
 msgid "Independent Samples T-Test Bayes Factor Function"
-msgstr ""
+msgstr "Bağımsız Örneklermler T-Testi Bayes Faktör Fonksiyonu"
 
 msgid "Regression Bayes Factor Function"
-msgstr ""
+msgstr "Regresyon Bayes Faktör Fonksiyonu"
 
 msgid "ANOVA Bayes Factor Function"
-msgstr ""
+msgstr "ANOVA Bayer Faktörü Fonksiyonu"
 
 msgid "Chi² Test Bayes Factor Function"
-msgstr ""
+msgstr "Chi² Testi Bayes Faktör Fonksiyonu"
 
 msgid "BFF"
-msgstr ""
+msgstr "BFF"
 
 msgid "user prior"
-msgstr ""
+msgstr "önceki kullanıcı"
 
 msgid "%1$s==%2$s~\"(at mode %3$s)\""
 msgstr ""
 
 msgid "Some Bayes factors were infinite"
-msgstr ""
+msgstr "Bazı Bayes faktörleri sonsuzdu"
 
 msgid "Prior mode (%1$s)"
-msgstr ""
+msgstr "Önceki mod (%1$s)"
 
 msgid "Prior and Posterior Plot"
-msgstr ""
+msgstr "Önceki ve Sonraki Grafik"
 
 msgid "Cohen's d"
-msgstr ""
+msgstr "Cohen d"
 
 msgid "Cohen's f"
-msgstr ""
+msgstr "Cohen f"
 
 msgid "Cohen's w"
-msgstr ""
+msgstr "Cohen w"
