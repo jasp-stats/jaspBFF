@@ -6,7 +6,7 @@ Description
 	name		: "jaspBFF"
 	title		: qsTr("Bayes Factor Functions")
 	description	: qsTr("This module offers Bayes factor functions.")
-	version		: "0.19.2"
+	version			: "0.20.0"
 	author		: "JASP Team"
 	maintainer	: "JASP Team <info@jasp-stats.org>"
 	website		: "https://jasp-stats.org"
