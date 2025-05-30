@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-30 02:03+0000\n"
+"PO-Revision-Date: 2025-05-31 03:47+0000\n"
 "Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jasp/jaspbff-qml/"
 "pl/>\n"
@@ -192,15 +192,15 @@ msgstr ""
 
 msgctxt "Analysis|"
 msgid "Group 1 ≠ 0"
-msgstr ""
+msgstr "Grupa 1 ≠ 0"
 
 msgctxt "Analysis|"
 msgid "Group 1 > 0"
-msgstr ""
+msgstr "Grupa 1 > 0"
 
 msgctxt "Analysis|"
 msgid "Group 1 < 0"
-msgstr ""
+msgstr "Grupa 1 < 0"
 
 msgctxt "Description|"
 msgid "Z-Tests"
