@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-20 13:21+0000\n"
+"PO-Revision-Date: 2025-06-20 13:22+0000\n"
 "Last-Translator: LibreTranslate <noreply-mt-libretranslate@weblate.org>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/jasp/jaspbff-qml/"
 "fr/>\n"
@@ -107,43 +107,43 @@ msgstr "Groupe de taille d ' échantillon 2"
 
 msgctxt "bffOneSampleTTest|"
 msgid "T-statistic"
-msgstr ""
+msgstr "T-statistic"
 
 msgctxt "bffOneSampleTTest|"
 msgid "Sample size"
-msgstr ""
+msgstr "Taille des échantillons"
 
 msgctxt "bffOneSampleZTest|"
 msgid "Z-statistic"
-msgstr ""
+msgstr "Z-statistic"
 
 msgctxt "bffOneSampleZTest|"
 msgid "Sample size"
-msgstr ""
+msgstr "Taille des échantillons"
 
 msgctxt "bffRegression|"
 msgid "T-statistic"
-msgstr ""
+msgstr "T-statistic"
 
 msgctxt "bffRegression|"
 msgid "Sample size"
-msgstr ""
+msgstr "Taille des échantillons"
 
 msgctxt "bffRegression|"
 msgid "Predictors"
-msgstr ""
+msgstr "Predictors"
 
 msgctxt "Analysis|"
 msgid "Analysis"
-msgstr ""
+msgstr "Analyse"
 
 msgctxt "Analysis|"
 msgid "Alternative Hypothesis"
-msgstr ""
+msgstr "Hypothèse alternative"
 
 msgctxt "Analysis|"
 msgid "Group 1 ≠ Group 2"
-msgstr ""
+msgstr "Groupe 1 appétit Groupe 2"
 
 msgctxt "Analysis|"
 msgid "Group 1 > Group 2"
