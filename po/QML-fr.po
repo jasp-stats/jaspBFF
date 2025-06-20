@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-06-20 13:24+0000\n"
-"Last-Translator: JASP Stats <b.boutin@uva.nl>\n"
+"Last-Translator: LibreTranslate <noreply-mt-libretranslate@weblate.org>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/jasp/jaspbff-qml/"
 "fr/>\n"
 "Language: fr\n"
@@ -147,7 +147,7 @@ msgstr "Groupe 1 ≠ Groupe 2"
 
 msgctxt "Analysis|"
 msgid "Group 1 > Group 2"
-msgstr ""
+msgstr "Groupe 1"
 
 msgctxt "Analysis|"
 msgid "Group 1 < Group 2"
@@ -155,7 +155,7 @@ msgstr "Groupe 1 < Groupe 2"
 
 msgctxt "Analysis|"
 msgid "Bayes factor with prior mode"
-msgstr ""
+msgstr "Facteur des baies avec mode antérieur"
 
 msgctxt "Analysis|"
 msgid "Plots"
