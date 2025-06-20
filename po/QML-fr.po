@@ -99,7 +99,7 @@ msgstr "Z-statistic"
 
 msgctxt "bffIndependentSamplesZTest|"
 msgid "Sample size group 1"
-msgstr "Groupe de taille d ' échantillon 1"
+msgstr "Groupe de taille d 'échantillon 1"
 
 msgctxt "bffIndependentSamplesZTest|"
 msgid "Sample size group 2"
