@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-06-20 13:21+0000\n"
-"Last-Translator: JASP Stats <b.boutin@uva.nl>\n"
+"Last-Translator: LibreTranslate <noreply-mt-libretranslate@weblate.org>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/jasp/jaspbff-qml/"
 "fr/>\n"
 "Language: fr\n"
@@ -99,7 +99,7 @@ msgstr "Z-statistic"
 
 msgctxt "bffIndependentSamplesZTest|"
 msgid "Sample size group 1"
-msgstr ""
+msgstr "Groupe de taille d ' échantillon 1"
 
 msgctxt "bffIndependentSamplesZTest|"
 msgid "Sample size group 2"
