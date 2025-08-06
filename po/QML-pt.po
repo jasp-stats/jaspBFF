@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-06 02:02+0000\n"
+"PO-Revision-Date: 2025-08-06 07:43+0000\n"
 "Last-Translator: Wendel Paulo Silvestre <wpsilvestre@ucs.br>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/jasp/"
 "jaspbff-qml/pt/>\n"
@@ -51,39 +51,39 @@ msgstr "Estatística F"
 
 msgctxt "bffANOVA|"
 msgid "Degrees of freedom 1"
-msgstr ""
+msgstr "Graus de liberdade 1"
 
 msgctxt "bffANOVA|"
 msgid "Degrees of freedom 2"
-msgstr ""
+msgstr "Graus de liberdade 2"
 
 msgctxt "bffBinomialTest|"
 msgid "Z-Statistic"
-msgstr ""
+msgstr "Estatística-Z"
 
 msgctxt "bffBinomialTest|"
 msgid "Sample Size"
-msgstr ""
+msgstr "Tamanho de Amostra"
 
 msgctxt "bffChi2|"
 msgid "Chi² statistic"
-msgstr ""
+msgstr "Estatística Chi²"
 
 msgctxt "bffChi2|"
 msgid "Sample size"
-msgstr ""
+msgstr "Tamanho de amostra"
 
 msgctxt "bffCorrelation|"
 msgid "T-Statistic"
-msgstr ""
+msgstr "Estatística-T"
 
 msgctxt "bffCorrelation|"
 msgid "Sample Size"
-msgstr ""
+msgstr "Tamanho de Amostra"
 
 msgctxt "bffIndependentSamplesTTest|"
 msgid "T-statistic"
-msgstr ""
+msgstr "Estatística-T"
 
 msgctxt "bffIndependentSamplesTTest|"
 msgid "Sample size group 1"
