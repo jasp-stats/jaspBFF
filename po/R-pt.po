@@ -2,110 +2,117 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jaspBFF 0.95.0\n"
 "POT-Creation-Date: 2025-06-21 03:50\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-08-08 18:02+0000\n"
+"Last-Translator: Wendel Paulo Silvestre <wpsilvestre@ucs.br>\n"
+"Language-Team: Portuguese <https://hosted.weblate.org/projects/jasp/"
+"jaspbff-r/pt/>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 msgid "One Sample Z-Test Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Tabela Resumo da Função do Fator de Bayes do Teste Z para uma Amostra"
 
 msgid "One Sample T-Test Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Tabela Resumo da Função do Fator de Bayes do Teste T para uma Amostra"
 
 msgid "Independent Samples Z-Test Bayes Factor Function Summary Table"
 msgstr ""
+"Tabela Resumo da Função do Fator de Bayes do Teste Z de Amostras "
+"Independentes"
 
 msgid "Independent Samples T-Test Bayes Factor Function Summary Table"
 msgstr ""
+"Tabela Resumo da Função do Fator de Bayes do Teste T de Amostras "
+"Independentes"
 
 msgid "Regression Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Tabela Resumo do Fator de Bayes para Regressão"
 
 msgid "ANOVA Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Tabela Resumo do Fator da Função de Bayes para ANOVA"
 
 msgid "Chi² Test Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Tabela Resumo da Função do Fator de Bayes para Teste Chi²"
 
 msgid "Prior Mode"
-msgstr ""
+msgstr "Modo Anterior"
 
 msgid "Prior mode corresponds to %1$s."
-msgstr ""
+msgstr "O modo anterior corresponde a %1$s."
 
 msgid "The Bayes factor function was estimated with prior dispersion r = %1$.2f."
 msgstr ""
+"O fator da função de Bayes foi estimado com a dispersão anterior r = %1$.2f."
 
 msgid "One Sample Z-Test Bayes Factor"
-msgstr ""
+msgstr "Fator de Bayes do Teste Z para uma Amostra"
 
 msgid "One Sample T-Test Bayes Factor"
-msgstr ""
+msgstr "Fator de Bayes do Teste T para uma Amostra"
 
 msgid "Independent Samples Z-Test Bayes Factor"
-msgstr ""
+msgstr "Fator de Bayes do Teste Z para Amostras Independentes"
 
 msgid "Independent Samples T-Test Bayes Factor"
-msgstr ""
+msgstr "Fator de Bayes do Teste T para Amostras Independentes"
 
 msgid "Regression Bayes Factor"
-msgstr ""
+msgstr "Fator de Bayes da Regressão"
 
 msgid "ANOVA Bayes Factor"
-msgstr ""
+msgstr "Fator de Bayes da ANOVA"
 
 msgid "Chi² Test Bayes Factor"
-msgstr ""
+msgstr "Fator de Bayes do Teste Chi²"
 
 msgid "One Sample Z-Test Bayes Factor Function"
-msgstr ""
+msgstr "Função do Fator de Bayes do Teste Z para uma Amostra"
 
 msgid "One Sample T-Test Bayes Factor Function"
-msgstr ""
+msgstr "Função do Fator de Bayes do Teste T para uma Amostra"
 
 msgid "Independent Samples Z-Test Bayes Factor Function"
-msgstr ""
+msgstr "Função do Fator de Bayes do Teste Z para Amostras Independentes"
 
 msgid "Independent Samples T-Test Bayes Factor Function"
-msgstr ""
+msgstr "Função do Fator de Bayes do Teste T para Amostras Independentes"
 
 msgid "Regression Bayes Factor Function"
-msgstr ""
+msgstr "Função do Fator de Bayes para Regressão"
 
 msgid "ANOVA Bayes Factor Function"
-msgstr ""
+msgstr "Função do Fator de Bayes para ANOVA"
 
 msgid "Chi² Test Bayes Factor Function"
-msgstr ""
+msgstr "Função do Fator de Bayes do Teste Chi²"
 
 msgid "BFF"
-msgstr ""
+msgstr "BFF"
 
 msgid "user prior"
-msgstr ""
+msgstr "usuário anterior"
 
 msgid "%1$s==%2$s~\"(at mode %3$s)\""
-msgstr ""
+msgstr "%1$s==%2$s~\"(no modo %3$s)\""
 
 msgid "Some Bayes factors were infinite"
-msgstr ""
+msgstr "Alguns fatores de Bayes são infinitos"
 
 msgid "Prior mode (%1$s)"
-msgstr ""
+msgstr "Modo anterior (%1$s)"
 
 msgid "Prior and Posterior Plot"
-msgstr ""
+msgstr "Gráfico Anterior e Posterior"
 
 msgid "Cohen's d"
-msgstr ""
+msgstr "d de Cohen"
 
 msgid "Cohen's f"
-msgstr ""
+msgstr "f de Cohen"
 
 msgid "Cohen's w"
-msgstr ""
+msgstr "w de Cohen"
