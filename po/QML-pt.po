@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-08 19:02+0000\n"
+"PO-Revision-Date: 2025-08-14 18:02+0000\n"
 "Last-Translator: Wendel Paulo Silvestre <wpsilvestre@ucs.br>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/jasp/"
 "jaspbff-qml/pt/>\n"
@@ -47,7 +47,7 @@ msgstr "Teste Chi²"
 
 msgctxt "bffANOVA|"
 msgid "F-statistic"
-msgstr "Estatística F"
+msgstr "Estatística-F"
 
 msgctxt "bffANOVA|"
 msgid "Degrees of freedom 1"
