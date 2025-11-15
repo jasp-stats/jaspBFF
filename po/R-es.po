@@ -2,110 +2,124 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jaspBFF 0.95.0\n"
 "POT-Creation-Date: 2025-06-21 03:50\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-11-15 14:37+0000\n"
+"Last-Translator: ecadrian <ecadrian@hotmail.com>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/jasp/jaspbff-r/"
+"es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 msgid "One Sample Z-Test Bayes Factor Function Summary Table"
 msgstr ""
+"Tabla resumen de funciones de factores de Bayes del contraste Z para una "
+"muestra"
 
 msgid "One Sample T-Test Bayes Factor Function Summary Table"
 msgstr ""
+"Tabla resumen de funciones de factores de Bayes del contraste T para una "
+"muestra"
 
 msgid "Independent Samples Z-Test Bayes Factor Function Summary Table"
 msgstr ""
+"Tabla resumen de funciones de factores de Bayes del contraste Z para "
+"muestras independientes"
 
 msgid "Independent Samples T-Test Bayes Factor Function Summary Table"
 msgstr ""
+"Tabla resumen de funciones de factores de Bayes del contraste T para "
+"muestras independientes"
 
 msgid "Regression Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Tabla resumen de funciones de factores de Bayes de regresión"
 
 msgid "ANOVA Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Tabla resumen de funciones de factores de Bayes de ANOVA"
 
 msgid "Chi² Test Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Tabla resumen de funciones de factores de Bayes del contraste Chi²"
 
 msgid "Prior Mode"
-msgstr ""
+msgstr "Moda previa"
 
 msgid "Prior mode corresponds to %1$s."
-msgstr ""
+msgstr "La Moda previa corresponde a %1$s."
 
 msgid "The Bayes factor function was estimated with prior dispersion r = %1$.2f."
 msgstr ""
+"La función de factores de Bayes se estimó con una dispersión previa r = "
+"%1$.2f."
 
 msgid "One Sample Z-Test Bayes Factor"
-msgstr ""
+msgstr "Factor de Bayes del contraste Z para una muestra"
 
 msgid "One Sample T-Test Bayes Factor"
-msgstr ""
+msgstr "Factor de Bayes del contraste T para una muestra"
 
 msgid "Independent Samples Z-Test Bayes Factor"
-msgstr ""
+msgstr "Factor de Bayes del contraste Z para muestras independientes"
 
 msgid "Independent Samples T-Test Bayes Factor"
-msgstr ""
+msgstr "Factor de Bayes del contraste T para muestras independientes"
 
 msgid "Regression Bayes Factor"
-msgstr ""
+msgstr "Factor de Bayes de regresión"
 
 msgid "ANOVA Bayes Factor"
-msgstr ""
+msgstr "Factor de Bayes de ANOVA"
 
 msgid "Chi² Test Bayes Factor"
-msgstr ""
+msgstr "Factor de Bayes del contraste Chi²"
 
 msgid "One Sample Z-Test Bayes Factor Function"
-msgstr ""
+msgstr "Función de factores de Bayes del contraste Z para una muestra"
 
 msgid "One Sample T-Test Bayes Factor Function"
-msgstr ""
+msgstr "Función de factores de Bayes del contraste T para una muestra"
 
 msgid "Independent Samples Z-Test Bayes Factor Function"
 msgstr ""
+"Función de factores de Bayes del contraste Z para muestras independientes"
 
 msgid "Independent Samples T-Test Bayes Factor Function"
 msgstr ""
+"Función de factores de Bayes del contraste T para muestras independientes"
 
 msgid "Regression Bayes Factor Function"
-msgstr ""
+msgstr "Función de factores de Bayes de regresión"
 
 msgid "ANOVA Bayes Factor Function"
-msgstr ""
+msgstr "Función de factores de Bayes de ANOVA"
 
 msgid "Chi² Test Bayes Factor Function"
-msgstr ""
+msgstr "Función de factores de Bayes del contraste Chi²"
 
 msgid "BFF"
-msgstr ""
+msgstr "FFB"
 
 msgid "user prior"
-msgstr ""
+msgstr "Previa del usuario"
 
 msgid "%1$s==%2$s~\"(at mode %3$s)\""
-msgstr ""
+msgstr "%1$s==%2$s~\"(en moda %3$s)\""
 
 msgid "Some Bayes factors were infinite"
-msgstr ""
+msgstr "Algunos Factores de Bayes son infinitos"
 
 msgid "Prior mode (%1$s)"
-msgstr ""
+msgstr "Moda previa (%1$s)"
 
 msgid "Prior and Posterior Plot"
-msgstr ""
+msgstr "Gráfico de previas y posteriores"
 
 msgid "Cohen's d"
-msgstr ""
+msgstr "D de Cohen"
 
 msgid "Cohen's f"
-msgstr ""
+msgstr "F de Cohen"
 
 msgid "Cohen's w"
-msgstr ""
+msgstr "W de Cohen"
