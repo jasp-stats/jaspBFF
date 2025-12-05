@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-01 06:15+0000\n"
+"PO-Revision-Date: 2025-12-05 22:00+0000\n"
 "Last-Translator: Marko Bojović <bojovicmarko@outlook.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/jasp/jaspbff-qml/"
 "sr/>\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 msgctxt "Description|"
 msgid "Bayes Factor Functions"
-msgstr ""
+msgstr "Функције Бејзових фактора"
 
 msgctxt "Description|"
 msgid "This module offers Bayes factor functions."
@@ -55,7 +55,7 @@ msgstr ""
 
 msgctxt "Description|"
 msgid "Frequencies"
-msgstr ""
+msgstr "Фреквенције"
 
 msgctxt "Description|"
 msgid "Chi² Test"
