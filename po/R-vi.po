@@ -2,110 +2,112 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jaspBFF 0.95.5\n"
 "POT-Creation-Date: 2025-11-15 03:46\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-02-11 06:09+0000\n"
+"Last-Translator: Tran Thien Truong <truongtrandds@gmail.com>\n"
+"Language-Team: Vietnamese <https://hosted.weblate.org/projects/jasp/jaspbff-"
+"r/vi/>\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.16-dev\n"
 
 msgid "One Sample Z-Test Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Bảng tóm tắt hàm hệ số Bayes kiểm định Z một mẫu"
 
 msgid "One Sample T-Test Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Bảng tóm tắt hàm hệ số Bayes kiểm định t một mẫu"
 
 msgid "Independent Samples Z-Test Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Bảng tóm tắt hàm hệ số Bayes kiểm định Z hai mẫu độc lập"
 
 msgid "Independent Samples T-Test Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Bảng tóm tắt hàm hệ số Bayes kiểm định t hai mẫu độc lập"
 
 msgid "Regression Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Bảng tóm tắt hàm hệ số Bayes hồi quy"
 
 msgid "ANOVA Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Bảng tóm tắt hàm hệ số Bayes ANOVA"
 
 msgid "Chi² Test Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Bảng tóm tắt hàm hệ số Bayes kiểm định Chi-bình phương"
 
 msgid "Prior Mode"
-msgstr ""
+msgstr "Mốt của phân bố tiên nghiệm"
 
 msgid "Prior mode corresponds to %1$s."
-msgstr ""
+msgstr "Mốt của phân bố tiên nghiệm tương ứng với %1$s."
 
 msgid "The Bayes factor function was estimated with prior dispersion r = %1$.2f."
-msgstr ""
+msgstr "Hàm hệ số Bayes được ước lượng với độ phân tán tiên nghiệm r = %1$.2f."
 
 msgid "One Sample Z-Test Bayes Factor"
-msgstr ""
+msgstr "Hệ số Bayes kiểm định Z một mẫu"
 
 msgid "One Sample T-Test Bayes Factor"
-msgstr ""
+msgstr "Hệ số Bayes kiểm định t một mẫu"
 
 msgid "Independent Samples Z-Test Bayes Factor"
-msgstr ""
+msgstr "Hệ số Bayes kiểm định Z hai mẫu độc lập"
 
 msgid "Independent Samples T-Test Bayes Factor"
-msgstr ""
+msgstr "Hệ số Bayes kiểm định t hai mẫu độc lập"
 
 msgid "Regression Bayes Factor"
-msgstr ""
+msgstr "Hệ số Bayes hồi quy"
 
 msgid "ANOVA Bayes Factor"
-msgstr ""
+msgstr "Hệ số Bayes ANOVA"
 
 msgid "Chi² Test Bayes Factor"
-msgstr ""
+msgstr "Hệ số Bayes kiểm định Chi-bình phương"
 
 msgid "One Sample Z-Test Bayes Factor Function"
-msgstr ""
+msgstr "Hàm hệ số Bayes kiểm định Z một mẫu"
 
 msgid "One Sample T-Test Bayes Factor Function"
-msgstr ""
+msgstr "Hàm hệ số Bayes kiểm định t một mẫu"
 
 msgid "Independent Samples Z-Test Bayes Factor Function"
-msgstr ""
+msgstr "Hàm hệ số Bayes kiểm định Z hai mẫu độc lập"
 
 msgid "Independent Samples T-Test Bayes Factor Function"
-msgstr ""
+msgstr "Hàm hệ số Bayes kiểm định t hai mẫu độc lập"
 
 msgid "Regression Bayes Factor Function"
-msgstr ""
+msgstr "Hàm hệ số Bayes hồi quy"
 
 msgid "ANOVA Bayes Factor Function"
-msgstr ""
+msgstr "Hàm hệ số Bayes ANOVA"
 
 msgid "Chi² Test Bayes Factor Function"
-msgstr ""
+msgstr "Hàm hệ số Bayes kiểm định Chi-bình phương"
 
 msgid "BFF"
-msgstr ""
+msgstr "BFF (Hàm hệ số Bayes)"
 
 msgid "user prior"
-msgstr ""
+msgstr "ên nghiệm do người dùng đặt"
 
 msgid "%1$s==%2$s~\"(at mode %3$s)\""
-msgstr ""
+msgstr "%1$s==%2$s~\"(tại mode %3$s)\""
 
 msgid "Some Bayes factors were infinite"
-msgstr ""
+msgstr "Một số hệ số Bayes là vô hạn"
 
 msgid "Prior mode (%1$s)"
-msgstr ""
+msgstr "tiên nghiệm (%1$s)"
 
 msgid "Prior and Posterior Plot"
-msgstr ""
+msgstr "Biểu đồ tiên nghiệm và hậu nghiệm"
 
 msgid "Cohen's d"
-msgstr ""
+msgstr "d của Cohen"
 
 msgid "Cohen's f"
-msgstr ""
+msgstr "f của Cohen"
 
 msgid "Cohen's w"
-msgstr ""
+msgstr "w của Cohen"
