@@ -550,7 +550,7 @@ bffAnalysis <- function(jaspResults, dataset, options, test) {
     dfPoints     = dfPoints,
     pointLegend  = options[["plotBayesFactorFunctionAdditionalInfo"]],
     xName        = gettextf("Prior mode (%1$s)", .bffEffectSizeInformation(options)),
-    hypothesis   = ifelse(options[["alternativeHypothesis"]] == "less", "smaller", options[["alternativeHypothesis"]]),
+    hypothesis   = switch(options[["alternativeHypothesis"]], "less" = "smaller", "greater" = "greater", "equal" = "equal"),
     bfType       = options[["bayesFactorType"]],
     pointColors  = c("grey", if (options[["bayesFactorWithPriorMode"]]) "black")
   )
