@@ -1,7 +1,7 @@
 Package: jaspBFF
 Type: Package
 Title: A Bayes factor function module for JASP
-Version: 0.96.1
+Version: 0.96.2
 Date: 2020-10-15
 Author: JASP Team
 Website: jasp-stats.org
