@@ -2,110 +2,112 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jaspBFF 0.95.0\n"
 "POT-Creation-Date: 2025-06-21 03:50\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-07-28 08:01+0000\n"
+"Last-Translator: Koji Kosugi <kosugitti@gmail.com>\n"
+"Language-Team: Japanese <https://hosted.weblate.org/projects/jasp/jaspbff-r/"
+"ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2026.8.dev0\n"
 
 msgid "One Sample Z-Test Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "1標本z検定 ベイズファクター関数の要約表"
 
 msgid "One Sample T-Test Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "1標本t検定 ベイズファクター関数の要約表"
 
 msgid "Independent Samples Z-Test Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "対応のないz検定 ベイズファクター関数の要約表"
 
 msgid "Independent Samples T-Test Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "対応のないt検定 ベイズファクター関数の要約表"
 
 msgid "Regression Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "回帰 ベイズファクター関数の要約表"
 
 msgid "ANOVA Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "分散分析 ベイズファクター関数の要約表"
 
 msgid "Chi² Test Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "カイ²検定 ベイズファクター関数の要約表"
 
 msgid "Prior Mode"
-msgstr ""
+msgstr "事前分布の最頻値"
 
 msgid "Prior mode corresponds to %1$s."
-msgstr ""
+msgstr "事前分布の最頻値は %1$s に対応します。"
 
 msgid "The Bayes factor function was estimated with prior dispersion r = %1$.2f."
-msgstr ""
+msgstr "ベイズファクター関数は、事前分布の散らばり r = %1$.2f で推定されました。"
 
 msgid "One Sample Z-Test Bayes Factor"
-msgstr ""
+msgstr "1標本z検定 ベイズファクター"
 
 msgid "One Sample T-Test Bayes Factor"
-msgstr ""
+msgstr "1標本t検定 ベイズファクター"
 
 msgid "Independent Samples Z-Test Bayes Factor"
-msgstr ""
+msgstr "対応のないz検定 ベイズファクター"
 
 msgid "Independent Samples T-Test Bayes Factor"
-msgstr ""
+msgstr "対応のないt検定 ベイズファクター"
 
 msgid "Regression Bayes Factor"
-msgstr ""
+msgstr "回帰 ベイズファクター"
 
 msgid "ANOVA Bayes Factor"
-msgstr ""
+msgstr "分散分析 ベイズファクター"
 
 msgid "Chi² Test Bayes Factor"
-msgstr ""
+msgstr "カイ²検定 ベイズファクター"
 
 msgid "One Sample Z-Test Bayes Factor Function"
-msgstr ""
+msgstr "1標本z検定 ベイズファクター関数"
 
 msgid "One Sample T-Test Bayes Factor Function"
-msgstr ""
+msgstr "1標本t検定 ベイズファクター関数"
 
 msgid "Independent Samples Z-Test Bayes Factor Function"
-msgstr ""
+msgstr "対応のないz検定 ベイズファクター関数"
 
 msgid "Independent Samples T-Test Bayes Factor Function"
-msgstr ""
+msgstr "対応のないt検定 ベイズファクター関数"
 
 msgid "Regression Bayes Factor Function"
-msgstr ""
+msgstr "回帰 ベイズファクター関数"
 
 msgid "ANOVA Bayes Factor Function"
-msgstr ""
+msgstr "分散分析 ベイズファクター関数"
 
 msgid "Chi² Test Bayes Factor Function"
-msgstr ""
+msgstr "カイ²検定 ベイズファクター関数"
 
 msgid "BFF"
-msgstr ""
+msgstr "BFF"
 
 msgid "user prior"
-msgstr ""
+msgstr "ユーザ指定の事前分布"
 
 msgid "%1$s==%2$s~\"(at mode %3$s)\""
-msgstr ""
+msgstr "%1$s==%2$s~\"(最頻値 %3$s)\""
 
 msgid "Some Bayes factors were infinite"
-msgstr ""
+msgstr "一部のベイズファクターが無限大になりました"
 
 msgid "Prior mode (%1$s)"
-msgstr ""
+msgstr "事前分布の最頻値 (%1$s)"
 
 msgid "Prior and Posterior Plot"
-msgstr ""
+msgstr "事前分布と事後分布のプロット"
 
 msgid "Cohen's d"
-msgstr ""
+msgstr "コーエン(Cohen)のd"
 
 msgid "Cohen's f"
-msgstr ""
+msgstr "コーエン(Cohen)のf"
 
 msgid "Cohen's w"
-msgstr ""
+msgstr "コーエン(Cohen)のw"
