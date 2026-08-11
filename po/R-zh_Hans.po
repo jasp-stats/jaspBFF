@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jaspBFF 0.1\n"
+"Report-Msgid-Bugs-To: github.com/jasp-stats/jasp-issues/issues\n"
+"POT-Creation-Date: 2026-01-01 00:00+0000\n"
+"PO-Revision-Date: 2026-01-01 00:00+0000\n"
+"Last-Translator: JASP translators\n"
+"Language-Team: Chinese (Simplified)\n"
+"Language: zh_Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "One Sample Z-Test Bayes Factor Function Summary Table"
+msgstr "单样本 Z 检验贝叶斯因子函数汇总表"
+
+msgid "One Sample T-Test Bayes Factor Function Summary Table"
+msgstr "单样本 T 检验贝叶斯因子函数汇总表"
+
+msgid "Independent Samples Z-Test Bayes Factor Function Summary Table"
+msgstr "独立样本 Z 检验贝叶斯因子函数汇总表"
+
+msgid "Independent Samples T-Test Bayes Factor Function Summary Table"
+msgstr "独立样本 T 检验贝叶斯因子函数汇总表"
+
+msgid "Regression Bayes Factor Function Summary Table"
+msgstr "回归贝叶斯因子函数汇总表"
+
+msgid "ANOVA Bayes Factor Function Summary Table"
+msgstr "方差分析贝叶斯因子函数汇总表"
+
+msgid "Chi² Test Bayes Factor Function Summary Table"
+msgstr "卡方检验贝叶斯因子函数汇总表"
+
+msgid "Prior Mode"
+msgstr "先验众数"
+
+msgid "Prior mode corresponds to %1$s."
+msgstr "先验众数对应于 %1$s。"
+
+msgid "The Bayes factor function was estimated with prior dispersion r = %1$.2f."
+msgstr "贝叶斯因子函数是使用先验离散度 r = %1$.2f 估计的。"
+
+msgid "One Sample Z-Test Bayes Factor"
+msgstr "单样本 Z 检验贝叶斯因子"
+
+msgid "One Sample T-Test Bayes Factor"
+msgstr "单样本 T 检验贝叶斯因子"
+
+msgid "Independent Samples Z-Test Bayes Factor"
+msgstr "独立样本 Z 检验贝叶斯因子"
+
+msgid "Independent Samples T-Test Bayes Factor"
+msgstr "独立样本 T 检验贝叶斯因子"
+
+msgid "Regression Bayes Factor"
+msgstr "回归贝叶斯因子"
+
+msgid "ANOVA Bayes Factor"
+msgstr "方差分析贝叶斯因子"
+
+msgid "Chi² Test Bayes Factor"
+msgstr "卡方检验贝叶斯因子"
+
+msgid "One Sample Z-Test Bayes Factor Function"
+msgstr "单样本 Z 检验贝叶斯因子函数"
+
+msgid "One Sample T-Test Bayes Factor Function"
+msgstr "单样本 T 检验贝叶斯因子函数"
+
+msgid "Independent Samples Z-Test Bayes Factor Function"
+msgstr "独立样本 Z 检验贝叶斯因子函数"
+
+msgid "Independent Samples T-Test Bayes Factor Function"
+msgstr "独立样本 T 检验贝叶斯因子函数"
+
+msgid "Regression Bayes Factor Function"
+msgstr "回归贝叶斯因子函数"
+
+msgid "ANOVA Bayes Factor Function"
+msgstr "方差分析贝叶斯因子函数"
+
+msgid "Chi² Test Bayes Factor Function"
+msgstr "卡方检验贝叶斯因子函数"
+
+msgid "BFF"
+msgstr "BFF"
+
+msgid "user prior"
+msgstr "用户先验"
+
+msgid "%1$s==%2$s~\"(at mode %3$s)\""
+msgstr "%1$s==%2$s~\"（众数处 %3$s）\""
+
+msgid "Some Bayes factors were infinite"
+msgstr "某些贝叶斯因子为无穷大"
+
+msgid "Prior mode (%1$s)"
+msgstr "先验众数（%1$s）"
+
+msgid "Prior and Posterior Plot"
+msgstr "先验与后验图"
+
+msgid "Cohen's d"
+msgstr "Cohen 的 d"
+
+msgid "Cohen's f"
+msgstr "Cohen 的 f"
+
+msgid "Cohen's w"
+msgstr "Cohen 的 w"

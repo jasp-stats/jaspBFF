@@ -45,11 +45,11 @@ msgstr "F 统计量"
 
 msgctxt "bffANOVA|"
 msgid "Degrees of freedom 1"
-msgstr ""
+msgstr "自由度 1"
 
 msgctxt "bffANOVA|"
 msgid "Degrees of freedom 2"
-msgstr ""
+msgstr "自由度 2"
 
 msgctxt "bffBinomialTest|"
 msgid "Z-Statistic"
@@ -81,11 +81,11 @@ msgstr "T 统计量"
 
 msgctxt "bffIndependentSamplesTTest|"
 msgid "Sample size group 1"
-msgstr ""
+msgstr "组 1 样本量"
 
 msgctxt "bffIndependentSamplesTTest|"
 msgid "Sample size group 2"
-msgstr ""
+msgstr "组 2 样本量"
 
 msgctxt "bffIndependentSamplesZTest|"
 msgid "Z-statistic"
@@ -93,11 +93,11 @@ msgstr "Z 统计量"
 
 msgctxt "bffIndependentSamplesZTest|"
 msgid "Sample size group 1"
-msgstr ""
+msgstr "组 1 样本量"
 
 msgctxt "bffIndependentSamplesZTest|"
 msgid "Sample size group 2"
-msgstr ""
+msgstr "组 2 样本量"
 
 msgctxt "bffOneSampleTTest|"
 msgid "T-statistic"
@@ -130,55 +130,55 @@ msgstr "样本量"
 
 msgctxt "bffRegression|"
 msgid "Predictors"
-msgstr ""
+msgstr "预测变量"
 
 msgctxt "Analysis|"
 msgid "Analysis"
-msgstr ""
+msgstr "分析"
 
 msgctxt "Analysis|"
 msgid "Alternative Hypothesis"
-msgstr ""
+msgstr "备择假设"
 
 msgctxt "Analysis|"
 msgid "Group 1 ≠ Group 2"
-msgstr ""
+msgstr "组 1 ≠ 组 2"
 
 msgctxt "Analysis|"
 msgid "Group 1 > Group 2"
-msgstr ""
+msgstr "组 1 > 组 2"
 
 msgctxt "Analysis|"
 msgid "Group 1 < Group 2"
-msgstr ""
+msgstr "组 1 < 组 2"
 
 msgctxt "Analysis|"
 msgid "Bayes factor with prior mode"
-msgstr ""
+msgstr "带先验众数的贝叶斯因子"
 
 msgctxt "Analysis|"
 msgid "Plots"
-msgstr ""
+msgstr "图"
 
 msgctxt "Analysis|"
 msgid "Bayes factor function"
-msgstr ""
+msgstr "贝叶斯因子函数"
 
 msgctxt "Analysis|"
 msgid "Additional info"
-msgstr ""
+msgstr "附加信息"
 
 msgctxt "Priors|"
 msgid "Priors"
-msgstr ""
+msgstr "先验"
 
 msgctxt "Priors|"
 msgid "Prior dispersion r"
-msgstr ""
+msgstr "先验离散度 r"
 
 msgctxt "Description|"
 msgid "Bayes Factor Functions"
-msgstr ""
+msgstr "贝叶斯因子函数"
 
 #, fuzzy
 msgctxt "bffANOVA|"
@@ -187,28 +187,28 @@ msgstr "样本量"
 
 msgctxt "bffChi2|"
 msgid "Degrees of freedom"
-msgstr ""
+msgstr "自由度"
 
 msgctxt "Analysis|"
 msgid "Group 1 ≠ 0"
-msgstr ""
+msgstr "组 1 ≠ 0"
 
 msgctxt "Analysis|"
 msgid "Group 1 > 0"
-msgstr ""
+msgstr "组 1 > 0"
 
 msgctxt "Analysis|"
 msgid "Group 1 < 0"
-msgstr ""
+msgstr "组 1 < 0"
 
 msgctxt "Description|"
 msgid "Z-Tests"
-msgstr ""
+msgstr "Z 检验"
 
 msgctxt "Description|"
 msgid "One Sample Z-Test"
-msgstr ""
+msgstr "单样本 Z 检验"
 
 msgctxt "Description|"
 msgid "Independent Samples Z-Test"
-msgstr ""
+msgstr "独立样本 Z 检验"

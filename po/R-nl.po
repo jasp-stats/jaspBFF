@@ -12,101 +12,101 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 msgid "One Sample Z-Test Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Samenvattingstabel van de Bayes-factorfunctie voor de z-toets voor één steekproef"
 
 msgid "One Sample T-Test Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Samenvattingstabel van de Bayes-factorfunctie voor de t-toets voor één steekproef"
 
 msgid "Independent Samples Z-Test Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Samenvattingstabel van de Bayes-factorfunctie voor de z-toets voor onafhankelijke steekproeven"
 
 msgid "Independent Samples T-Test Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Samenvattingstabel van de Bayes-factorfunctie voor de t-toets voor onafhankelijke steekproeven"
 
 msgid "Regression Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Samenvattingstabel van de Bayes-factorfunctie voor regressie"
 
 msgid "ANOVA Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Samenvattingstabel van de Bayes-factorfunctie voor ANOVA"
 
 msgid "Chi² Test Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "Samenvattingstabel van de Bayes-factorfunctie voor de chi²-toets"
 
 msgid "Prior Mode"
-msgstr ""
+msgstr "Prior-modus"
 
 msgid "Prior mode corresponds to %1$s."
-msgstr ""
+msgstr "De prior-modus komt overeen met %1$s."
 
 msgid ""
 "The Bayes factor function was estimated with prior dispersion r = %1$.2f."
-msgstr ""
+msgstr "De Bayes-factorfunctie is geschat met prior-spreiding r = %1$.2f."
 
 msgid "One Sample Z-Test Bayes Factor"
-msgstr ""
+msgstr "Bayes-factor voor de z-toets voor één steekproef"
 
 msgid "One Sample T-Test Bayes Factor"
-msgstr ""
+msgstr "Bayes-factor voor de t-toets voor één steekproef"
 
 msgid "Independent Samples Z-Test Bayes Factor"
-msgstr ""
+msgstr "Bayes-factor voor de z-toets voor onafhankelijke steekproeven"
 
 msgid "Independent Samples T-Test Bayes Factor"
-msgstr ""
+msgstr "Bayes-factor voor de t-toets voor onafhankelijke steekproeven"
 
 msgid "Regression Bayes Factor"
-msgstr ""
+msgstr "Bayes-factor voor regressie"
 
 msgid "ANOVA Bayes Factor"
-msgstr ""
+msgstr "Bayes-factor voor ANOVA"
 
 msgid "Chi² Test Bayes Factor"
-msgstr ""
+msgstr "Bayes-factor voor de chi²-toets"
 
 msgid "One Sample Z-Test Bayes Factor Function"
-msgstr ""
+msgstr "Bayes-factorfunctie voor de z-toets voor één steekproef"
 
 msgid "One Sample T-Test Bayes Factor Function"
-msgstr ""
+msgstr "Bayes-factorfunctie voor de t-toets voor één steekproef"
 
 msgid "Independent Samples Z-Test Bayes Factor Function"
-msgstr ""
+msgstr "Bayes-factorfunctie voor de z-toets voor onafhankelijke steekproeven"
 
 msgid "Independent Samples T-Test Bayes Factor Function"
-msgstr ""
+msgstr "Bayes-factorfunctie voor de t-toets voor onafhankelijke steekproeven"
 
 msgid "Regression Bayes Factor Function"
-msgstr ""
+msgstr "Bayes-factorfunctie voor regressie"
 
 msgid "ANOVA Bayes Factor Function"
-msgstr ""
+msgstr "Bayes-factorfunctie voor ANOVA"
 
 msgid "Chi² Test Bayes Factor Function"
-msgstr ""
+msgstr "Bayes-factorfunctie voor de chi²-toets"
 
 msgid "BFF"
-msgstr ""
+msgstr "BFF"
 
 msgid "user prior"
-msgstr ""
+msgstr "gebruikersprior"
 
 msgid "%1$s==%2$s~\"(at mode %3$s)\""
-msgstr ""
+msgstr "%1$s==%2$s~\"(op modus %3$s)\""
 
 msgid "Some Bayes factors were infinite"
-msgstr ""
+msgstr "Sommige Bayes-factoren waren oneindig"
 
 msgid "Prior mode (%1$s)"
-msgstr ""
+msgstr "Prior-modus (%1$s)"
 
 msgid "Prior and Posterior Plot"
-msgstr ""
+msgstr "Prior- en posterieurplot"
 
 msgid "Cohen's d"
-msgstr ""
+msgstr "Cohen's d"
 
 msgid "Cohen's f"
-msgstr ""
+msgstr "Cohen's f"
 
 msgid "Cohen's w"
-msgstr ""
+msgstr "Cohen's w"
