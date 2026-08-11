@@ -25,7 +25,7 @@ msgstr "獨立樣本 T 檢定"
 
 msgctxt "Description|"
 msgid "Regression"
-msgstr ""
+msgstr "迴歸分析"
 
 msgctxt "Description|"
 msgid "ANOVA"
@@ -37,7 +37,7 @@ msgstr "頻次分析"
 
 msgctxt "Description|"
 msgid "Chi² Test"
-msgstr ""
+msgstr "卡方檢定"
 
 msgctxt "bffANOVA|"
 msgid "F-statistic"
@@ -53,15 +53,15 @@ msgstr "自由度 2"
 
 msgctxt "bffBinomialTest|"
 msgid "Z-Statistic"
-msgstr ""
+msgstr "Z 統計量"
 
 msgctxt "bffBinomialTest|"
 msgid "Sample Size"
-msgstr ""
+msgstr "樣本數"
 
 msgctxt "bffChi2|"
 msgid "Chi² statistic"
-msgstr ""
+msgstr "卡方統計量"
 
 #, fuzzy
 msgctxt "bffChi2|"
@@ -70,39 +70,39 @@ msgstr "樣本數"
 
 msgctxt "bffCorrelation|"
 msgid "T-Statistic"
-msgstr ""
+msgstr "T 統計量"
 
 msgctxt "bffCorrelation|"
 msgid "Sample Size"
-msgstr ""
+msgstr "樣本數"
 
 msgctxt "bffIndependentSamplesTTest|"
 msgid "T-statistic"
-msgstr ""
+msgstr "T 統計量"
 
 msgctxt "bffIndependentSamplesTTest|"
 msgid "Sample size group 1"
-msgstr ""
+msgstr "第 1 組樣本量"
 
 msgctxt "bffIndependentSamplesTTest|"
 msgid "Sample size group 2"
-msgstr ""
+msgstr "第 2 組樣本量"
 
 msgctxt "bffIndependentSamplesZTest|"
 msgid "Z-statistic"
-msgstr ""
+msgstr "Z 統計量"
 
 msgctxt "bffIndependentSamplesZTest|"
 msgid "Sample size group 1"
-msgstr ""
+msgstr "第 1 組樣本量"
 
 msgctxt "bffIndependentSamplesZTest|"
 msgid "Sample size group 2"
-msgstr ""
+msgstr "第 2 組樣本量"
 
 msgctxt "bffOneSampleTTest|"
 msgid "T-statistic"
-msgstr ""
+msgstr "T 統計量"
 
 #, fuzzy
 msgctxt "bffOneSampleTTest|"
@@ -111,7 +111,7 @@ msgstr "樣本數"
 
 msgctxt "bffOneSampleZTest|"
 msgid "Z-statistic"
-msgstr ""
+msgstr "Z 統計量"
 
 #, fuzzy
 msgctxt "bffOneSampleZTest|"
@@ -120,7 +120,7 @@ msgstr "樣本數"
 
 msgctxt "bffRegression|"
 msgid "T-statistic"
-msgstr ""
+msgstr "T 統計量"
 
 #, fuzzy
 msgctxt "bffRegression|"
@@ -133,11 +133,11 @@ msgstr "預測變項"
 
 msgctxt "Analysis|"
 msgid "Analysis"
-msgstr ""
+msgstr "分析"
 
 msgctxt "Analysis|"
 msgid "Alternative Hypothesis"
-msgstr ""
+msgstr "對立假設"
 
 msgctxt "Analysis|"
 msgid "Group 1 ≠ Group 2"
@@ -145,39 +145,39 @@ msgstr "組 1 ≠ 組 2"
 
 msgctxt "Analysis|"
 msgid "Group 1 > Group 2"
-msgstr ""
+msgstr "組 1 > 組 2"
 
 msgctxt "Analysis|"
 msgid "Group 1 < Group 2"
-msgstr ""
+msgstr "組 1 < 組 2"
 
 msgctxt "Analysis|"
 msgid "Bayes factor with prior mode"
-msgstr ""
+msgstr "具先驗模式的貝氏因子"
 
 msgctxt "Analysis|"
 msgid "Plots"
-msgstr ""
+msgstr "圖"
 
 msgctxt "Analysis|"
 msgid "Bayes factor function"
-msgstr ""
+msgstr "貝氏因子函數"
 
 msgctxt "Analysis|"
 msgid "Additional info"
-msgstr ""
+msgstr "其他資訊"
 
 msgctxt "Priors|"
 msgid "Priors"
-msgstr ""
+msgstr "先驗"
 
 msgctxt "Priors|"
 msgid "Prior dispersion r"
-msgstr ""
+msgstr "先驗離散度 r"
 
 msgctxt "Description|"
 msgid "Bayes Factor Functions"
-msgstr ""
+msgstr "貝氏因子函數"
 
 msgctxt "bffANOVA|"
 msgid "Sample size"
@@ -185,28 +185,28 @@ msgstr "樣本數"
 
 msgctxt "bffChi2|"
 msgid "Degrees of freedom"
-msgstr ""
+msgstr "自由度"
 
 msgctxt "Analysis|"
 msgid "Group 1 ≠ 0"
-msgstr ""
+msgstr "組 1 ≠ 0"
 
 msgctxt "Analysis|"
 msgid "Group 1 > 0"
-msgstr ""
+msgstr "組 1 > 0"
 
 msgctxt "Analysis|"
 msgid "Group 1 < 0"
-msgstr ""
+msgstr "組 1 < 0"
 
 msgctxt "Description|"
 msgid "Z-Tests"
-msgstr ""
+msgstr "Z 檢定"
 
 msgctxt "Description|"
 msgid "One Sample Z-Test"
-msgstr ""
+msgstr "單一樣本 Z 檢定"
 
 msgctxt "Description|"
 msgid "Independent Samples Z-Test"
-msgstr ""
+msgstr "獨立樣本 Z 檢定"

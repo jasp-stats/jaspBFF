@@ -104,10 +104,10 @@ msgid "Prior and Posterior Plot"
 msgstr "先驗與後驗分布圖"
 
 msgid "Cohen's d"
-msgstr ""
+msgstr "Cohen's d 效果量"
 
 msgid "Cohen's f"
-msgstr ""
+msgstr "Cohen's f 效果量"
 
 msgid "Cohen's w"
-msgstr ""
+msgstr "Cohen's w 效果量"
