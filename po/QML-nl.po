@@ -9,200 +9,200 @@ msgstr ""
 
 msgctxt "Description|"
 msgid "This module offers Bayes factor functions."
-msgstr ""
+msgstr "Deze module biedt Bayes-factorfuncties."
 
 msgctxt "Description|"
 msgid "T-Tests"
-msgstr ""
+msgstr "T-toetsen"
 
 msgctxt "Description|"
 msgid "One Sample T-Test"
-msgstr ""
+msgstr "T-toets voor één steekproef"
 
 msgctxt "Description|"
 msgid "Independent Samples T-Test"
-msgstr ""
+msgstr "T-toets voor onafhankelijke steekproeven"
 
 msgctxt "Description|"
 msgid "Regression"
-msgstr ""
+msgstr "Regressie"
 
 msgctxt "Description|"
 msgid "ANOVA"
-msgstr ""
+msgstr "ANOVA"
 
 msgctxt "Description|"
 msgid "Frequencies"
-msgstr ""
+msgstr "Frequenties"
 
 msgctxt "Description|"
 msgid "Chi² Test"
-msgstr ""
+msgstr "Chi²-toets"
 
 msgctxt "bffANOVA|"
 msgid "F-statistic"
-msgstr ""
+msgstr "F-statistiek"
 
 msgctxt "bffANOVA|"
 msgid "Degrees of freedom 1"
-msgstr ""
+msgstr "Vrijheidsgraden 1"
 
 msgctxt "bffANOVA|"
 msgid "Degrees of freedom 2"
-msgstr ""
+msgstr "Vrijheidsgraden 2"
 
 msgctxt "bffBinomialTest|"
 msgid "Z-Statistic"
-msgstr ""
+msgstr "Z-statistiek"
 
 msgctxt "bffBinomialTest|"
 msgid "Sample Size"
-msgstr ""
+msgstr "Steekproefomvang"
 
 msgctxt "bffChi2|"
 msgid "Chi² statistic"
-msgstr ""
+msgstr "Chi²-statistiek"
 
 msgctxt "bffChi2|"
 msgid "Sample size"
-msgstr ""
+msgstr "Steekproefomvang"
 
 msgctxt "bffCorrelation|"
 msgid "T-Statistic"
-msgstr ""
+msgstr "T-statistiek"
 
 msgctxt "bffCorrelation|"
 msgid "Sample Size"
-msgstr ""
+msgstr "Steekproefomvang"
 
 msgctxt "bffIndependentSamplesTTest|"
 msgid "T-statistic"
-msgstr ""
+msgstr "T-statistiek"
 
 msgctxt "bffIndependentSamplesTTest|"
 msgid "Sample size group 1"
-msgstr ""
+msgstr "Steekproefomvang groep 1"
 
 msgctxt "bffIndependentSamplesTTest|"
 msgid "Sample size group 2"
-msgstr ""
+msgstr "Steekproefomvang groep 2"
 
 msgctxt "bffIndependentSamplesZTest|"
 msgid "Z-statistic"
-msgstr ""
+msgstr "Z-statistiek"
 
 msgctxt "bffIndependentSamplesZTest|"
 msgid "Sample size group 1"
-msgstr ""
+msgstr "Steekproefomvang groep 1"
 
 msgctxt "bffIndependentSamplesZTest|"
 msgid "Sample size group 2"
-msgstr ""
+msgstr "Steekproefomvang groep 2"
 
 msgctxt "bffOneSampleTTest|"
 msgid "T-statistic"
-msgstr ""
+msgstr "T-statistiek"
 
 msgctxt "bffOneSampleTTest|"
 msgid "Sample size"
-msgstr ""
+msgstr "Steekproefomvang"
 
 msgctxt "bffOneSampleZTest|"
 msgid "Z-statistic"
-msgstr ""
+msgstr "Z-statistiek"
 
 msgctxt "bffOneSampleZTest|"
 msgid "Sample size"
-msgstr ""
+msgstr "Steekproefomvang"
 
 msgctxt "bffRegression|"
 msgid "T-statistic"
-msgstr ""
+msgstr "T-statistiek"
 
 msgctxt "bffRegression|"
 msgid "Sample size"
-msgstr ""
+msgstr "Steekproefomvang"
 
 msgctxt "bffRegression|"
 msgid "Predictors"
-msgstr ""
+msgstr "Predictoren"
 
 msgctxt "Analysis|"
 msgid "Analysis"
-msgstr ""
+msgstr "Analyse"
 
 msgctxt "Analysis|"
 msgid "Alternative Hypothesis"
-msgstr ""
+msgstr "Alternatieve hypothese"
 
 msgctxt "Analysis|"
 msgid "Group 1 ≠ Group 2"
-msgstr ""
+msgstr "Groep 1 ≠ Groep 2"
 
 msgctxt "Analysis|"
 msgid "Group 1 > Group 2"
-msgstr ""
+msgstr "Groep 1 > Groep 2"
 
 msgctxt "Analysis|"
 msgid "Group 1 < Group 2"
-msgstr ""
+msgstr "Groep 1 < Groep 2"
 
 msgctxt "Analysis|"
 msgid "Bayes factor with prior mode"
-msgstr ""
+msgstr "Bayes-factor met prior-modus"
 
 msgctxt "Analysis|"
 msgid "Plots"
-msgstr ""
+msgstr "Plots"
 
 msgctxt "Analysis|"
 msgid "Bayes factor function"
-msgstr ""
+msgstr "Bayes-factorfunctie"
 
 msgctxt "Analysis|"
 msgid "Additional info"
-msgstr ""
+msgstr "Extra informatie"
 
 msgctxt "Priors|"
 msgid "Priors"
-msgstr ""
+msgstr "Priors"
 
 msgctxt "Priors|"
 msgid "Prior dispersion r"
-msgstr ""
+msgstr "Prior-spreiding r"
 
 msgctxt "Description|"
 msgid "Bayes Factor Functions"
-msgstr ""
+msgstr "Bayes-factorfuncties"
 
 msgctxt "bffANOVA|"
 msgid "Sample size"
-msgstr ""
+msgstr "Steekproefomvang"
 
 msgctxt "bffChi2|"
 msgid "Degrees of freedom"
-msgstr ""
+msgstr "Vrijheidsgraden"
 
 msgctxt "Analysis|"
 msgid "Group 1 ≠ 0"
-msgstr ""
+msgstr "Groep 1 ≠ 0"
 
 msgctxt "Analysis|"
 msgid "Group 1 > 0"
-msgstr ""
+msgstr "Groep 1 > 0"
 
 msgctxt "Analysis|"
 msgid "Group 1 < 0"
-msgstr ""
+msgstr "Groep 1 < 0"
 
 msgctxt "Description|"
 msgid "Z-Tests"
-msgstr ""
+msgstr "Z-toetsen"
 
 msgctxt "Description|"
 msgid "One Sample Z-Test"
-msgstr ""
+msgstr "Z-toets voor één steekproef"
 
 msgctxt "Description|"
 msgid "Independent Samples Z-Test"
-msgstr ""
+msgstr "Z-toets voor onafhankelijke steekproeven"

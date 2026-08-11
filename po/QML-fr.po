@@ -149,31 +149,31 @@ msgstr "Groupe 1 < Groupe 2"
 
 msgctxt "Analysis|"
 msgid "Bayes factor with prior mode"
-msgstr ""
+msgstr "Facteur de Bayes avec un mode a priori"
 
 msgctxt "Analysis|"
 msgid "Plots"
-msgstr ""
+msgstr "Graphiques"
 
 msgctxt "Analysis|"
 msgid "Bayes factor function"
-msgstr ""
+msgstr "Fonction du facteur de Bayes"
 
 msgctxt "Analysis|"
 msgid "Additional info"
-msgstr ""
+msgstr "Informations supplémentaires"
 
 msgctxt "Priors|"
 msgid "Priors"
-msgstr ""
+msgstr "Distributions a priori"
 
 msgctxt "Priors|"
 msgid "Prior dispersion r"
-msgstr ""
+msgstr "Dispersion a priori r"
 
 msgctxt "Description|"
 msgid "Bayes Factor Functions"
-msgstr ""
+msgstr "Fonctions de facteur de Bayes"
 
 #, fuzzy
 msgctxt "bffANOVA|"
@@ -182,28 +182,28 @@ msgstr "Taille des échantillons"
 
 msgctxt "bffChi2|"
 msgid "Degrees of freedom"
-msgstr ""
+msgstr "Degrés de liberté"
 
 msgctxt "Analysis|"
 msgid "Group 1 ≠ 0"
-msgstr ""
+msgstr "Groupe 1 ≠ 0"
 
 msgctxt "Analysis|"
 msgid "Group 1 > 0"
-msgstr ""
+msgstr "Groupe 1 > 0"
 
 msgctxt "Analysis|"
 msgid "Group 1 < 0"
-msgstr ""
+msgstr "Groupe 1 < 0"
 
 msgctxt "Description|"
 msgid "Z-Tests"
-msgstr ""
+msgstr "Z-Tests"
 
 msgctxt "Description|"
 msgid "One Sample Z-Test"
-msgstr ""
+msgstr "Un échantillon Z-Test"
 
 msgctxt "Description|"
 msgid "Independent Samples Z-Test"
-msgstr ""
+msgstr "Échantillons indépendants Z-Test"
