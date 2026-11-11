@@ -2,111 +2,114 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jaspBFF 0.96.3\n"
 "POT-Creation-Date: 2026-04-25 04:25\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-11-11 19:11+0000\n"
+"Last-Translator: Fahad Mahfouz Al-Subhi "
+"<fahadalsubhi@users.noreply.hosted.weblate.org>\n"
+"Language-Team: Arabic <https://hosted.weblate.org/projects/jasp/jaspbff-r/"
+"ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 2026.11.2.dev0\n"
 
 msgid "One Sample Z-Test Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "جدول ملخص دالة عامل بايز لاختبار Z لعينة واحدة"
 
 msgid "One Sample T-Test Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "جدول ملخص دالة عامل بايز لاختبار t لعينة واحدة"
 
 msgid "Independent Samples Z-Test Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "جدول ملخص دالة عامل بايز لاختبار Z لعينتين مستقلتين"
 
 msgid "Independent Samples T-Test Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "جدول ملخص دالة عامل بايز لاختبار t لعينتين مستقلتين"
 
 msgid "Regression Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "جدول ملخص دالة عامل بايز للانحدار"
 
 msgid "ANOVA Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "جدول ملخص دالة عامل بايز لتحليل التباين"
 
 msgid "Chi² Test Bayes Factor Function Summary Table"
-msgstr ""
+msgstr "جدول ملخص دالة عامل بايز لاختبار كاي تربيع"
 
 msgid "Prior Mode"
-msgstr ""
+msgstr "المنوال القبلي"
 
 msgid "Prior mode corresponds to %1$s."
-msgstr ""
+msgstr "يقابل المنوال القبلي %1$s."
 
 msgid "The Bayes factor function was estimated with prior dispersion r = %1$.2f."
-msgstr ""
+msgstr "قُدِّرت دالة عامل بايز باستخدام تشتت قبلي r = %1$.2f."
 
 msgid "One Sample Z-Test Bayes Factor"
-msgstr ""
+msgstr "عامل بايز لاختبار Z لعينة واحدة"
 
 msgid "One Sample T-Test Bayes Factor"
-msgstr ""
+msgstr "عامل بايز لاختبار t لعينة واحدة"
 
 msgid "Independent Samples Z-Test Bayes Factor"
-msgstr ""
+msgstr "عامل بايز لاختبار Z لعينتين مستقلتين"
 
 msgid "Independent Samples T-Test Bayes Factor"
-msgstr ""
+msgstr "عامل بايز لاختبار t لعينتين مستقلتين"
 
 msgid "Regression Bayes Factor"
-msgstr ""
+msgstr "عامل بايز للانحدار"
 
 msgid "ANOVA Bayes Factor"
-msgstr ""
+msgstr "عامل بايز لتحليل التباين"
 
 msgid "Chi² Test Bayes Factor"
-msgstr ""
+msgstr "عامل بايز لاختبار كاي تربيع"
 
 msgid "One Sample Z-Test Bayes Factor Function"
-msgstr ""
+msgstr "دالة عامل بايز لاختبار Z لعينة واحدة"
 
 msgid "One Sample T-Test Bayes Factor Function"
-msgstr ""
+msgstr "دالة عامل بايز لاختبار t لعينة واحدة"
 
 msgid "Independent Samples Z-Test Bayes Factor Function"
-msgstr ""
+msgstr "دالة عامل بايز لاختبار Z لعينتين مستقلتين"
 
 msgid "Independent Samples T-Test Bayes Factor Function"
-msgstr ""
+msgstr "دالة عامل بايز لاختبار t لعينتين مستقلتين"
 
 msgid "Regression Bayes Factor Function"
-msgstr ""
+msgstr "دالة عامل بايز للانحدار"
 
 msgid "ANOVA Bayes Factor Function"
-msgstr ""
+msgstr "دالة عامل بايز لتحليل التباين"
 
 msgid "Chi² Test Bayes Factor Function"
-msgstr ""
+msgstr "دالة عامل بايز لاختبار كاي تربيع"
 
 msgid "BFF"
-msgstr ""
+msgstr "BFF"
 
 msgid "user prior"
-msgstr ""
+msgstr "التوزيع القبلي للمستخدم"
 
 msgid "%1$s==%2$s~\"(at mode %3$s)\""
-msgstr ""
+msgstr "%1$s==%2$s~\"(عند المنوال %3$s)\""
 
 msgid "Some Bayes factors were infinite"
-msgstr ""
+msgstr "كانت بعض عوامل بايز لا نهائية"
 
 msgid "Prior mode (%1$s)"
-msgstr ""
+msgstr "المنوال القبلي (%1$s)"
 
 msgid "Prior and Posterior Plot"
-msgstr ""
+msgstr "مخطط التوزيعين القبلي والبعدي"
 
 msgid "Cohen's d"
-msgstr ""
+msgstr "معامل d لكوهين"
 
 msgid "Cohen's f"
-msgstr ""
+msgstr "حجم الأثر f لكوهين"
 
 msgid "Cohen's w"
-msgstr ""
+msgstr "حجم الأثر w لكوهين"
