@@ -7,7 +7,7 @@ Description
 	description	: qsTr("This module offers Bayes factor functions.")
 	icon		: "analysis-bayes-factor-functions.svg"
 	requiresData: false
-	hasWrappers:  false
+	hasWrappers:  true
 	
 	GroupTitle
 	{

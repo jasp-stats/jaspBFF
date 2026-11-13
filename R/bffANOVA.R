@@ -17,7 +17,7 @@
 
 
 #' @export
-bffANOVA <- function(jaspResults, dataset, options) {
+bffANOVAInternal <- function(jaspResults, dataset, options) {
 
   options[["test"]] <- "ANOVA"
   bffAnalysis(jaspResults, dataset, options)
