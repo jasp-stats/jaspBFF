@@ -17,7 +17,7 @@
 
 
 #' @export
-bffOneSampleZTest <- function(jaspResults, dataset, options) {
+bffOneSampleZTestInternal <- function(jaspResults, dataset, options) {
 
   options[["test"]] <- "OSZT"
   bffAnalysis(jaspResults, dataset, options)
